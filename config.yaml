@@ -1,0 +1,5 @@
+id: Qma8ZWLNTDMie5p5VuhHJF5uWEJ1ETMxUFhV8nMJ8MteUp
+name: ollama_cloud_testing
+description: testing ollama in cloud env
+notification:
+    email: andreascanu@icloud.com
